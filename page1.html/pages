@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Page 1</title>
+    <link rel="stylesheet" href="../style.css">
+  </head>
+  <body>
+    <h1>Chapitre Un</h1>
+    <div class="paragraphe">
+      <div class="paragraphe1">
+        <p class="seul">
+          "Boom Boom Boom". <br>
+          Ohhh qui peut bien faire un tel boucan à cet heure là. <br>
+          Tu te réveilles aussi péniblement soit-il et regarde l'heure sur ton portable :
+          7 heures du matin, c'est pas une heure pour se réveiller, et surtout pas quand c'est le jour de son anniversaire, <br>
+          "Déjà que je dois le passer en quarantaine, je compte bien dormir jusqu'au bout" te dis-tu.
+          Tu tentes donc de te rendormir, te retournant une fois, puis deux, puis trois.
+          Et ça y est enfin tu sens que tu vas repartir dans un sommeil profond pour le reste de cette journée. Jusqu'à ce que... <br>
+          "Boom Boom Boom". Cette fois-ci le bruit venait de ta chambre tu en es sûre, tu relèves doucement la tête vers ce que tu crois être la source.
+          Tu aperçois ainsi dans ta chambre un portail  bleu, tourbillonnant allant du plafond jusqu'au sol.
+          D'abord pris de panique tu te dis que tu es juste dans un rêve, après tout ça serait pas le pire que tu aies fait.
+          Tu te rallonges, tu fermes les yeux en te disant que tu vas te réveiller mais tu entends toujours ce "boom boom" que tu sais venir du portail. <br>
+          "Bon, on dit qu'il faut se pincer pour se réveiller " te dis-tu. <br>
+           "Aïe", te pincer à partir te faire mal n'aura eu aucun effet, tu as toujours un portail dans ta chambre.
+
+  </p> </div>
+          <div class="paragraphe2">
+            <p class="droite">
+          Tu te demandes quoi faire, et tu entends ton père passer à ce moment là dans le couloir. <br>
+          "Lui aussi à dû entendre le bruit et se demande sûrement d'où ça vient", penses-tu.
+          Tu appelles donc ton père afin qu'il puisse à son tour constater qu'un portail est apparu dans ta chambre. <br>
+          "Papa, viens vite voir y a un portail dans ma chambre", cries-tu.
+          Ton père entre dans ta chambre, te regardant avec un air un peu désarçonné. <br>
+          "Tu vas bien chérie ?", te demande-t'il.
+          Tu n'en croyais pas tes yeux, ton père était juste à côté d'un portail qui faisait la moitié de ta chambre mais il ne voyait rien.
+          Te rendant vite compte qu'il serait inutile de lui dire la vérité au risque qu'il te prenne pour une folle, tu lui dis simplement qu'il s'agissait d'un mauvais cauchemar.
+          Ton père sort ainsi de ta chambre mais ce portail lui est toujours là.
+          Prenant ton courage à deux main, tu décides de t'en approcher et d'aller voir si tu es folle ou s'il y a bien un portail. <br>
+          Tu te lèves et tu tends délicatement ta main vers le tourbillon. <br>
+          Soudainement tu te sens partir ailleurs. <br>
+          Cet anniversaire sera sûrement le plus long jamais passé. <br> <br>
+          Rendez-vous <a href="page2.html">  de l'autre côté du portail </a>
+          </p> </div>
+  </body>
+</html>
