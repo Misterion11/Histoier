@@ -28,6 +28,7 @@ div.paragraphe1{
 	align-items: flex-start;
 	justify-content: center;
 	text-align: justify;
+	padding-left: 75px
 	width: 50%;
 }
 div.paragraphe2{
@@ -42,13 +43,13 @@ p{
   font-size: 25px;
   text-align: justify;
 	width: 750px;
-	margin-left: 150px;
+	margin-left: 75px;
 	line-height: 130%;
 }
 h1{
   text-align: center;
   font-family: "birds";
-  font-size: 80px;
+  font- ize: 92px;
   width: 700px;
 }
 h2{
